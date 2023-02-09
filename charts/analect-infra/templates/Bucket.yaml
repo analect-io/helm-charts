@@ -3,7 +3,7 @@
 apiVersion: s3.aws.crossplane.io/v1beta1
 kind: Bucket
 metadata:
-  name: devxp-{{ .Values.name }}
+  name: analect-{{ .Values.name }}
   namespace: {{ include "namespace" . }}
   labels:
     backstage.io/kubernetes-id: {{ .Values.name }}

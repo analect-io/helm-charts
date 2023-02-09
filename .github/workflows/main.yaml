@@ -138,7 +138,7 @@ jobs:
           version: v3.8.1
       - name: Generate updated index.yaml 📦
         run: |
-          helm repo index . --url "https://raw.githubusercontent.com/devxp-tech/helm-charts/artifacts/"
+          helm repo index . --url "https://raw.githubusercontent.com/analect/helm-charts/artifacts/"
       - name: Persist index.yaml 📦
         uses: actions/upload-artifact@v3
         with:

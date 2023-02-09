@@ -1,0 +1,10 @@
+apiVersion: v2
+name: analect-infra
+description: Helm Charts for default analect Infrastructure
+icon: https://github.com/analect/helm-charts/blob/main/charts/tooling/helm-icon.png
+type: application
+version: 0.0.3
+appVersion: 1.0.0
+maintainers:
+  - name: diegoluisi
+    email: contato@diegoluisi.eti.br
