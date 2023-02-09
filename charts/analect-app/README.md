@@ -8,7 +8,7 @@ Helm Charts for default analect Application
 
 | Name | Email | Url |
 | ---- | ------ | --- |
-| diegoluisi | contato@diegoluisi.eti.br |  |
+| diegoluisi | contato@analect.com |  |
 
 ## Values
 
@@ -31,7 +31,7 @@ Helm Charts for default analect Application
 | autoscaling.targetCPUUtilizationPercentage | int | `70` | targetCPUUtilizationPercentage is the percentage of CPU utilization do Scaling |
 | cluster | string | `"lgsk8sp1.grupologos.local"` | cluster Set Cluster Name |
 | container.port | int | `8080` | port is the port your application runs under |
-| domain | string | `"diegoluisi.eti.br"` | domain Set Default Domain |
+| domain | string | `"analect.com"` | domain Set Default Domain |
 | env | list | `[]` |  |
 | envFrom | list | `[]` |  |
 | image.pullPolicy | string | `"IfNotPresent"` | pullPolicy is the prop to setup the behavior of pull police. options is: IfNotPresent \| allways |

@@ -9,7 +9,7 @@ name: ""
 cluster: lgsk8sp1.grupologos.local
 
 # --domain Set Default Domain
-domain: diegoluisi.eti.br
+domain: analect.com
 
 istioInjection: enabled
 

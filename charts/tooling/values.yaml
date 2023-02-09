@@ -7,7 +7,7 @@ global:
     cluster:
       name: "in-cluster"
       server: "https://kubernetes.default.svc"
-      domain: ".diegoluisi.eti.br"
+      domain: ".analect.com"
     project: default
 
 sealedSecrets:
@@ -38,7 +38,7 @@ istioGateway:
       #     mode: SIMPLE
       #     credentialName: istio-certs
       #   hosts:
-      #     - "*.diegoluisi.eti.br"
+      #     - "*.analect.com"
   private:
     enabled: true
     values:

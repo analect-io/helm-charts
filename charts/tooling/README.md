@@ -8,7 +8,7 @@ Helm Charts to Bootstrap Kubernetes Cluster
 
 | Name | Email | Url |
 | ---- | ------ | --- |
-| diegoluisi | contato@diegoluisi.eti.br |  |
+| diegoluisi | contato@analect.com |  |
 
 ## Values
 
@@ -18,7 +18,7 @@ Helm Charts to Bootstrap Kubernetes Cluster
 | alertmanager.namespace | string | `"monitoring"` |  |
 | certManager.enabled | bool | `true` |  |
 | certManager.namespace | string | `"cert-manager"` |  |
-| global.application.cluster.domain | string | `".diegoluisi.eti.br"` |  |
+| global.application.cluster.domain | string | `".analect.com"` |  |
 | global.application.cluster.name | string | `"in-cluster"` |  |
 | global.application.cluster.server | string | `"https://kubernetes.default.svc"` |  |
 | global.application.project | string | `"default"` |  |
