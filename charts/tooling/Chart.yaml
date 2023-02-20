@@ -1,7 +1,7 @@
 apiVersion: v2
 name: tooling
 description: Helm Charts to Bootstrap Kubernetes Cluster
-icon: https://github.com/analect/helm-charts/blob/main/charts/tooling/helm-icon.png
+icon: https://github.com/analect-io/helm-charts/blob/main/charts/tooling/helm-icon.png
 type: application
 version: 0.1.28
 appVersion: 1.1.0
