@@ -68,7 +68,7 @@ loki:
     fullnameOverride: loki
     global:
       dnsService: coredns
-      clusterDomain: lgsk8sp1.grupologos.local
+      clusterDomain: cluster.local
 
 kiali:
   enabled: true
