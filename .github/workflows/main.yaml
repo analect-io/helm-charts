@@ -90,7 +90,7 @@ jobs:
     name: Chart Release 📦
     runs-on: ubuntu-latest
     needs:
-      - sonarqube
+    #  - sonarqube
       - lint-chart
       - kubeval-chart
     steps:
