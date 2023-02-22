@@ -8,7 +8,7 @@ entries:
     digest: fb9e4d452327fb4b8b8da50884fc7d5233e3c6f0d7b490d01481a60bd33aee66
     icon: https://github.com/analect-io/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@analect.com
+    - email: info@analect.com
       name: diegoluisi
     name: analect-app
     type: application
@@ -23,7 +23,7 @@ entries:
     digest: 2e200c825afce7d9bb1218a3bd2d5041a1cf3b446437a2f5e5e8abbbc76cc56a
     icon: https://github.com/analect-io/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@analect.com
+    - email: info@analect.com
       name: diegoluisi
     name: analect-infra
     type: application
@@ -149,7 +149,7 @@ entries:
     digest: 074dfb44fb15c98f040b31792563702e44602a7b3e9c9e1bdb3bf82b8aba4836
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -163,7 +163,7 @@ entries:
     digest: 3647dbcc19c572b0db977bafc7ecc381b333d70f0180b908b990d54573ab07bc
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -177,7 +177,7 @@ entries:
     digest: d44ba91c11b28f55db138de2f09179799599ea7c6eb550f554f0240d67c0a04e
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -191,7 +191,7 @@ entries:
     digest: 3e1753eaa9965178686868456bb0f511fecb48540ad1b4e9424b610928e081a9
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -205,7 +205,7 @@ entries:
     digest: 1f96680bc89682bc12e6766dff8f7bd7429ef239119559c524535a8e7b9dfe32
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -219,7 +219,7 @@ entries:
     digest: c14f59847a4ed282a197681e241138814b9a6e1d125242bd00d1eb7740f08d06
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -233,7 +233,7 @@ entries:
     digest: 6160c2504cead6c17ac09789ee6da21651005717ef059fe83cf0ac70338c1682
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -247,7 +247,7 @@ entries:
     digest: 8aa2676eb2292db57464ea493256b0783276b71733a3d435881f9e791e666887
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -261,7 +261,7 @@ entries:
     digest: d15041543d37e3db024538d834b9a1a3a6bbd31f6af41c5833ec2836c5b6cb45
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -275,7 +275,7 @@ entries:
     digest: 2c66ede88e3ed6fadbb987512686500c37452de287b1c0f35fcc2ff32872d3f4
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -289,7 +289,7 @@ entries:
     digest: 934d061848749f42096fcf83c452a4c18bf3c94c3517acd65c7c4608438fec6f
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -303,7 +303,7 @@ entries:
     digest: 91e2698aa88437b5e46a4caede84f9b503e755b508e636c9de35ad986a62a485
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -317,7 +317,7 @@ entries:
     digest: e4cd1816051275862f43e3b00e199a26fba0fbd4aff7fd4073eec49febc17017
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -331,7 +331,7 @@ entries:
     digest: 90f7c06c994a1828357aab7ce87a2e127d28582f557e3a7748c3cde0d61b7d59
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -345,7 +345,7 @@ entries:
     digest: 4cf86522feed480dab6ea9c0eaca9bd44135908e5ad2661dcf4558f1b098428c
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -359,7 +359,7 @@ entries:
     digest: dfb1604cd412edc13d44b463d69c72a5b6c9357473076fa89884f73113bd1acc
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -373,7 +373,7 @@ entries:
     digest: 2d7bb1e4d6b8ff1662419bbb88528c58d56bc593739c5bb2434236cc0a932793
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -387,7 +387,7 @@ entries:
     digest: 48cba82ad3f0132bc81bbbabafbcb230f712b311bf0a7bb4573f15a6e59e360a
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -401,7 +401,7 @@ entries:
     digest: 063d12375547f88cf1b829de90ec77018766d66bfbed597699ce18e5fdc4a2f4
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -415,7 +415,7 @@ entries:
     digest: a5b3578dac93e14c90610de292fa38bcbb81e36d87d2228a40810fe009dd0d34
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -429,7 +429,7 @@ entries:
     digest: 824b5effed8fb9dec4f4a17b21ba3e53183efca0797cf45894b47e6c1f77d168
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -443,7 +443,7 @@ entries:
     digest: ff72b12163032ea694163a5f863058c4979f06cbbb4b795dd23cfbd9022dfaf6
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -457,7 +457,7 @@ entries:
     digest: 259f38860c72c078be7f5dded1b468043dc63be83871ee802efb8e5ce8b58f1e
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -471,7 +471,7 @@ entries:
     digest: 09dfb665f2f62a087bae8acb03db3dda05197ea99955d5ce9f6460486a6fc011
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -485,7 +485,7 @@ entries:
     digest: dc709b37ed21122dbd508cfce384cca1e54e36d5aa28008c2e2e805858b4b612
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -499,7 +499,7 @@ entries:
     digest: c02bb5a66e23298836940c3a376c4623bfb5df9fc1e7ad19f731efcdb8dcdf8e
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -513,7 +513,7 @@ entries:
     digest: 48447c0b0a5d04f7282752434b0f04cc6ac4b71faec3ad9ca9fba367d6dd88ad
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -527,7 +527,7 @@ entries:
     digest: 3908e941d2ba1039ca36a36c39d7b4027d3dda412204276b0f10164b40398d03
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -541,7 +541,7 @@ entries:
     digest: 988de7ea157140b3bbc502dd55f2f3e224380917c1297989dc89a265793935de
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -555,7 +555,7 @@ entries:
     digest: 360ba079201de69e8ce61fc37ecb25f4a730b0f82301ced824bcbdb61b82c039
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -569,7 +569,7 @@ entries:
     digest: 7b51f1233c63d7b9dc801797b7bfda816ff50eac90bd3cb48f83f227a6d0db40
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -583,7 +583,7 @@ entries:
     digest: 30ee098ee88744c99f7d2adf3d119d5f4bf9b924f73e774f489a9bffda9cfa90
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -597,7 +597,7 @@ entries:
     digest: 311f82b87b102eee4e639b7acfb4d97e73b8e80890db35f0ef0142bdb1c354b4
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -611,7 +611,7 @@ entries:
     digest: 9016e15e0f11811e1505ba3fc7c784b1aa85b9612d6098c97dce1c1df9572aab
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -625,7 +625,7 @@ entries:
     digest: 6155d570bed79d2efdbde49e460f39d530bbe747b2232c6678b855209c32cdd9
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -639,7 +639,7 @@ entries:
     digest: 86161847118fe00bc7a7916769e105d88e01be3e616d8388f68850157413b4ff
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -653,7 +653,7 @@ entries:
     digest: 92308f09b27324e2b05eeca43e73393379e82046acd3bf1e8ffb2f67a9f57568
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -667,7 +667,7 @@ entries:
     digest: 267fec5a8f93d696c1efecd5f24dc26c80258b97603ec5f133d502cef995fd00
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -681,7 +681,7 @@ entries:
     digest: d606cd2d792ad9938049a6b87b9d626aab34cfae351dc170f3c0f3d2814a3ab7
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -695,7 +695,7 @@ entries:
     digest: 07de5ee8029b998277eb84b4ed9eeaa3c00ae5bb8dd74b585d168765f8e3ecd6
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -709,7 +709,7 @@ entries:
     digest: ea45dd4092a588ad3e4a4d9a5883fc6e566b9294fb597fb02f964559e4a41d7c
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -723,7 +723,7 @@ entries:
     digest: 61539eac6204a609f8b5089e46e39289c9d2151d133b1e455516cf7cf60f9f2f
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -737,7 +737,7 @@ entries:
     digest: 900d3a53eccc72a9540e62b04f9620319dc0fde83cca0081eb578ae19cb50e41
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -751,7 +751,7 @@ entries:
     digest: c5ac6c918e30e6dc52a0356407e8ec93e15465ad29536ea4ce0595e241e54a94
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -765,7 +765,7 @@ entries:
     digest: 5829ab85c0a7ae54ce0d254949f0009dd8776f21f239a66767515306efce4e5b
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -779,7 +779,7 @@ entries:
     digest: 46f4126e94173d413cf21e33b87059ae53eda8ba82079dba60181b525a3d238d
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -793,7 +793,7 @@ entries:
     digest: f39597dce71ef54927adaeb58e4164d69cbad6ba286b8d8d5aa8ab816a13f997
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -807,7 +807,7 @@ entries:
     digest: 9af29dbfa8b59be926ea6cedb3e0a0ab77e746283386bb9dd0bf7dbdac4e11a3
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -821,7 +821,7 @@ entries:
     digest: 6e7bc6ef0d707cac2d4ee44ec71ce5c56cecc751654a5e12eb89a881376728bf
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -835,7 +835,7 @@ entries:
     digest: 73dee1176a0eb500e10d6759f46fb9bb19cddee45cb20fa5c87a81685d2f28b1
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -849,7 +849,7 @@ entries:
     digest: 552e58e36ebc020d2dc1b94604fd6073d022b7b9563fe98f506e621856204b77
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -863,7 +863,7 @@ entries:
     digest: 854cf4322375f2efb358aea6f89b19355833b47ea65cad491536c931fca574f4
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -877,7 +877,7 @@ entries:
     digest: fab8c309528cfc0e0f6ccf29bb72bf5cd3df8633d9468d2e843247a1ad7f6999
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -891,7 +891,7 @@ entries:
     digest: 32baa119fc87b9525e4f0cf96db531bb0ada3390ae4e09974e33a00df5b7bddd
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -905,7 +905,7 @@ entries:
     digest: eb3b07061a6f8ba758519dbfd62cfa0dbbd16479150cb9d7e7dd26f58ce50cec
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -919,7 +919,7 @@ entries:
     digest: a7aa4b8a7123d4d6a72fe5409ac81fb7b1215b088ceb323208803cef7b500cdf
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -933,7 +933,7 @@ entries:
     digest: 0b6c0de7686832f5003c377f0f37da78e85852151b1858d2dca72db705e34f5a
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -947,7 +947,7 @@ entries:
     digest: 316f84b927f97f8332574a702ed637be2735963ce164d15d3490a654d1355a4f
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -961,7 +961,7 @@ entries:
     digest: a385f1693aed6fbf849afa17283c1864597a6f2aca91bdf5ac63612b67434452
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-app
     type: application
@@ -1006,7 +1006,7 @@ entries:
     digest: 851e0ce88e37dc3711cdc5956983d4687a6befbd6e02b81b3c8adcffae4c0df1
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-infra
     type: application
@@ -1020,7 +1020,7 @@ entries:
     digest: 3b5a0a26e28db162cc257f566d8b05f808571e7795caf960c994523d28c331b5
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: devxp-infra
     type: application
@@ -1045,7 +1045,7 @@ entries:
     digest: 53550da9662a20d2854498a18b8913ef3cee8dc9c68685ce3ee13d8e0871f632
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: tooling
     type: application
@@ -1059,7 +1059,7 @@ entries:
     digest: 6ef00b3d095ec7da0b271deb677debe5f7aa1946ee75304b08ae35134d5c95ed
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: tooling
     type: application
@@ -1073,7 +1073,7 @@ entries:
     digest: 1a6d75f9da70b86a5ceb4687b9cbbeeba239dc99404717f94b19f653f05b7d30
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: tooling
     type: application
@@ -1087,7 +1087,7 @@ entries:
     digest: 3d91b56b04bb083675e9ba372a04ba20dbbc7c6cdc1bfa7f4661496214d1b446
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: tooling
     type: application
@@ -1101,7 +1101,7 @@ entries:
     digest: e2a7af788a06e5bd20f1883204987d6973bbe48715692373562f17319bcf0c80
     icon: https://github.com/devxp-tech/helm-charts/blob/main/charts/tooling/helm-icon.png
     maintainers:
-    - email: contato@diegoluisi.eti.br
+    - email: info@analect.com
       name: diegoluisi
     name: tooling
     type: application
