@@ -1,6 +1,6 @@
 # analect-app
 
-![Version: 0.1.62](https://img.shields.io/badge/Version-0.1.62-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.0.0](https://img.shields.io/badge/AppVersion-1.0.0-informational?style=flat-square)
+![Version: 0.1.59](https://img.shields.io/badge/Version-0.1.59-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.0.0](https://img.shields.io/badge/AppVersion-1.0.0-informational?style=flat-square)
 
 Helm Charts for default analect Application
 
@@ -8,7 +8,7 @@ Helm Charts for default analect Application
 
 | Name | Email | Url |
 | ---- | ------ | --- |
-| analect | info@analect.com |  |
+| analect-io | info@analect.com |  |
 
 ## Values
 
