@@ -8,7 +8,7 @@ Helm Charts for default analect Infrastructure
 
 | Name | Email | Url |
 | ---- | ------ | --- |
-| analect-io | info@analect.com |  |
+| analect | info@analect.com |  |
 
 ## Values
 
