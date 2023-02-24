@@ -8,7 +8,7 @@ Helm Charts to Bootstrap Kubernetes Cluster
 
 | Name | Email | Url |
 | ---- | ------ | --- |
-| diegoluisi | contato@analect.com |  |
+| analect-io | info@analect.com |  |
 
 ## Values
 
@@ -26,7 +26,7 @@ Helm Charts to Bootstrap Kubernetes Cluster
 | istioBase.namespace | string | `"istio-system"` |  |
 | istioGateway.namespace | string | `"istio-ingress"` |  |
 | istioGateway.private.enabled | bool | `true` |  |
-| istioGateway.private.gateway.servers[0].hosts[0] | string | `"*.diegoluisi.local"` |  |
+| istioGateway.private.gateway.servers[0].hosts[0] | string | `"*.analect-io.local"` |  |
 | istioGateway.private.gateway.servers[0].port.name | string | `"https"` |  |
 | istioGateway.private.gateway.servers[0].port.number | int | `443` |  |
 | istioGateway.private.gateway.servers[0].port.protocol | string | `"HTTPS"` |  |

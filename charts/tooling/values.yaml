@@ -55,7 +55,7 @@ istioGateway:
           mode: SIMPLE
           credentialName: istio-certs
         hosts:
-          - "*.diegoluisi.local"
+          - "*.analect-io.local"
 
 certManager:
   enabled: true

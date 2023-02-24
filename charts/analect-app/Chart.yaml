@@ -6,5 +6,5 @@ type: application
 version: 0.1.59
 appVersion: 1.0.0
 maintainers:
-  - name: diegoluisi
-    email: contato@analect.com
+  - name: analect-io
+    email: info@analect.com
