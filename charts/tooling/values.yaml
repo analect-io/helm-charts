@@ -68,7 +68,7 @@ loki:
     fullnameOverride: loki
     global:
       dnsService: coredns
-      clusterDomain: cluster.local
+      clusterDomain: civo.cluster
 
 kiali:
   enabled: true
