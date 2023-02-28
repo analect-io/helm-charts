@@ -50,7 +50,7 @@ Helm Charts to Bootstrap Kubernetes Cluster
 | loki.enabled | bool | `false` |  |
 | loki.namespace | string | `"monitoring"` |  |
 | loki.values.fullnameOverride | string | `"loki"` |  |
-| loki.values.global.clusterDomain | string | `"civo.cluster"` |  |
+| loki.values.global.clusterDomain | string | `"cluster.local"` |  |
 | loki.values.global.dnsService | string | `"coredns"` |  |
 | metricsServer.enabled | bool | `true` |  |
 | metricsServer.namespace | string | `"kube-system"` |  |
