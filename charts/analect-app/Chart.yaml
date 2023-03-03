@@ -3,7 +3,7 @@ name: analect-app
 description: Helm Charts for default analect Application
 icon: https://github.com/analect-io/helm-charts/blob/main/charts/tooling/helm-icon.png
 type: application
-version: 0.1.59
+version: 0.1.68
 appVersion: 1.0.0
 maintainers:
   - name: analect-io
