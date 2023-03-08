@@ -16,7 +16,7 @@ Helm Charts for default analect Infrastructure
 |-----|------|---------|-------------|
 | Bucket.acl | string | `"private"` |  |
 | Bucket.enabled | bool | `false` |  |
-| Bucket.locationConstraint | string | `"us-east-1"` |  |
+| Bucket.locationConstraint | string | `"eu-west-1"` |  |
 | Bucket.objectLockEnabledForBucket | bool | `false` |  |
 | name | string | `""` |  |
 | providerConfigRef | string | `"default"` |  |
