@@ -1,5 +1,5 @@
 {{- if .Values.argoRollouts.enabled }}
-{{- if not .Values.deployment.enabled }}
+#{{- if not .Values.deployment.enabled }}
 apiVersion: argoproj.io/v1alpha1
 kind: Rollout
 metadata:
@@ -68,5 +68,5 @@ spec:
       affinity: {{ toYaml (default dict .Values.affinity) | nindent 8 }}
       tolerations: {{ toYaml (default list .Values.tolerations)  | nindent 8 }}
   minReadySeconds: 30
-{{- end }}
+#{{- end }}
 {{- end }}

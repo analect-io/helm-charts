@@ -4,5 +4,5 @@ providerConfigRef: default
 Bucket:
   enabled: false
   acl: private
-  locationConstraint: us-east-1
+  locationConstraint: eu-west-1
   objectLockEnabledForBucket: false
