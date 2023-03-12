@@ -26,7 +26,7 @@ Helm Charts to Bootstrap Kubernetes Cluster
 | istioBase.namespace | string | `"istio-system"` |  |
 | istioGateway.namespace | string | `"istio-ingress"` |  |
 | istioGateway.private.enabled | bool | `true` |  |
-| istioGateway.private.gateway.servers[0].hosts[0] | string | `"*.analect-io.local"` |  |
+| istioGateway.private.gateway.servers[0].hosts[0] | string | `"*.analect.local"` |  |
 | istioGateway.private.gateway.servers[0].port.name | string | `"https"` |  |
 | istioGateway.private.gateway.servers[0].port.number | int | `443` |  |
 | istioGateway.private.gateway.servers[0].port.protocol | string | `"HTTPS"` |  |
@@ -50,7 +50,7 @@ Helm Charts to Bootstrap Kubernetes Cluster
 | loki.enabled | bool | `false` |  |
 | loki.namespace | string | `"monitoring"` |  |
 | loki.values.fullnameOverride | string | `"loki"` |  |
-| loki.values.global.clusterDomain | string | `"cluster.local"` |  |
+| loki.values.global.clusterDomain | string | `"analect.local"` |  |
 | loki.values.global.dnsService | string | `"coredns"` |  |
 | metricsServer.enabled | bool | `true` |  |
 | metricsServer.namespace | string | `"kube-system"` |  |
