@@ -55,7 +55,7 @@ istioGateway:
           mode: SIMPLE
           credentialName: istio-certs
         hosts:
-          - "*.analect-io.local"
+          - "*.analect.local"
 
 certManager:
   enabled: true
@@ -68,7 +68,7 @@ loki:
     fullnameOverride: loki
     global:
       dnsService: coredns
-      clusterDomain: cluster.local
+      clusterDomain: analect.local
 
 kiali:
   enabled: true
