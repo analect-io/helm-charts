@@ -27,6 +27,8 @@ Helm Charts for default Analect Application
 | autoscaling.targetCPUUtilizationPercentage | int | `70` | targetCPUUtilizationPercentage is the percentage of CPU utilization do Scaling |
 | cluster | string | `"cluster.local"` | cluster Set Cluster Name |
 | container.port | int | `8080` | port is the port your application runs under |
+| deployment | object | `{"enabled":false}` | deployment Disabled Deployment |
+| deployment.enabled | bool | `false` | enabled default false |
 | env | list | `[]` |  |
 | envFrom | list | `[]` |  |
 | image.pullPolicy | string | `"IfNotPresent"` | pullPolicy is the prop to setup the behavior of pull police. options is: IfNotPresent \| allways |
